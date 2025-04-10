@@ -1,0 +1,3 @@
+[submodule "quant/FixClientApp"]
+	path = quant/FixClientApp
+	url = https://github.com/haard18/FixClientApp

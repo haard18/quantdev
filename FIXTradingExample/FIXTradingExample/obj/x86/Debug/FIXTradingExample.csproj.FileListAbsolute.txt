@@ -1,0 +1,15 @@
+K:\fxcm\fix\FIXTradingExample\FIXTradingExample\bin\Debug\FIXFXCM10.xml
+K:\fxcm\fix\FIXTradingExample\FIXTradingExample\bin\Debug\FIXTradingExample.exe.config
+K:\fxcm\fix\FIXTradingExample\FIXTradingExample\bin\Debug\FIXTradingExample.exe
+K:\fxcm\fix\FIXTradingExample\FIXTradingExample\bin\Debug\FIXTradingExample.pdb
+K:\fxcm\fix\FIXTradingExample\FIXTradingExample\bin\Debug\quickfix_net.dll
+K:\fxcm\fix\FIXTradingExample\FIXTradingExample\bin\Debug\quickfix_net_messages.dll
+K:\fxcm\fix\FIXTradingExample\FIXTradingExample\obj\x86\Debug\FIXTradingExample.AccountsWindow.resources
+K:\fxcm\fix\FIXTradingExample\FIXTradingExample\obj\x86\Debug\FIXTradingExample.LoginWindow.resources
+K:\fxcm\fix\FIXTradingExample\FIXTradingExample\obj\x86\Debug\FIXTradingExample.RatesWindow.resources
+K:\fxcm\fix\FIXTradingExample\FIXTradingExample\obj\x86\Debug\FIXTradingExample.Properties.Resources.resources
+K:\fxcm\fix\FIXTradingExample\FIXTradingExample\obj\x86\Debug\FIXTradingExample.TradesWindow.resources
+K:\fxcm\fix\FIXTradingExample\FIXTradingExample\obj\x86\Debug\FIXTradingExample.csproj.GenerateResource.Cache
+K:\fxcm\fix\FIXTradingExample\FIXTradingExample\obj\x86\Debug\FIXTradingExample.exe
+K:\fxcm\fix\FIXTradingExample\FIXTradingExample\obj\x86\Debug\FIXTradingExample.pdb
+K:\fxcm\fix\FIXTradingExample\FIXTradingExample\obj\x86\Debug\FIXTradingExample.csprojResolveAssemblyReference.cache
