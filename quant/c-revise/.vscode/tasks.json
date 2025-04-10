@@ -1,0 +1,24 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build & Run C++",
+            "type": "shell",
+            "command": "clang++",
+            "args": [
+                "-std=c++17",
+                "-o",
+                "${fileDirname}/main",
+                "${file}",
+                "&&",
+                "${fileDirname}/main"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [],
+            "detail": "Compiles and runs the active C++ file"
+        }
+    ]
+}
